@@ -1,0 +1,23 @@
+
+Numerical and Categorical variables in this dataset¶
+Let's take a look at the following examples of the numerical variables within our dataset:
+
+SalesPrice: This variable represents the sales price of the house
+LotArea: This variable represents the size of a lot in square feet
+OverallQual: This variable represents rates of the overall material and finish of the house
+OverallCond: 	This variable represents rates the overall conditions of the house
+1stFirSF: 	This variable represents the first floor in square feet
+2ndFirSF: 	This variable represents the second floor in square feet
+BedroomAbvGr: 	This variable represents bedrooms above grade (does not include basement bedrooms)
+YearBuilt: 	This variable represents the original construction date (this is not technically a numerical variable, but we will use it 		to produce another variable called Age )
+
+
+categorical variables within our dataset:
+
+MSZoning: 	This variable identifies the general zoning classification of the sale
+LotShape: 	This variable represents the general shape of the property
+Neighborhood: 	This variable represents physical locations within Ames city limits
+CentralAir: 	This variable represents central air conditioning
+SaleCondition: 	This variable represents condition of sale
+MoSold: 	This variable represents month sold (MM)
+YrSold: 	This variable represents year sold (YYYY)
